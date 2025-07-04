@@ -91,4 +91,8 @@ I Used pivot tables and calculated columns where necessary to answer the followi
 
     ![TopRatedByEngagement](https://github.com/user-attachments/assets/ac993e45-2b7b-44ff-ad64-6efe4815e7e9)
 
+15. Final dashboard creation
+    
+![Dashboard1](https://github.com/user-attachments/assets/a380de5e-e06e-4042-a196-c2f899d65a22)
 
+![Dashboard2](https://github.com/user-attachments/assets/b17f607d-e1d1-4cd6-bbee-4fabbb4c37a7)

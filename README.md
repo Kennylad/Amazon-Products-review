@@ -6,3 +6,10 @@ Working on this project has helped me to fintune my skills in data analysis and 
 
 As a Junior Data Analyst at RetailTech Insights, a company that provides e-commerce analytics solutions to sellers on platforms like Amazon. 
 I was tasked with analyzing product and customer review data to generate insights that can  guide product improvement, marketing strategies, and customer engagement.
+
+### Data Source
+The primary data source used for this project is Amazon case study which  contains information scraped from Amazon product pages, including: 
+•       Product details: name, category, price, discount, and ratings 
+•       Customer engagement: user reviews, titles, and content 
+•       Each row represents a unique product, with aggregated reviewer data stored as comma-separated values 
+
